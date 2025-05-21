@@ -1,0 +1,4 @@
+python-dotenv
+requests
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-speech
