@@ -1,0 +1,7 @@
+python-dotenv
+requests
+azure-ai-vision-imageanalysis==1.0.0
+azure-ai-vision-face==1.0.0b2
+azure-ai-textanalytics==5.3.0
+openai==1.82.1
+azure.identity==1.23.0
